@@ -1,0 +1,4 @@
+= Notes
+
+== Links
+https://docs.spring.io/spring-hateoas/docs/current/reference/html/#client[Spring Boot HATEOAS Client Documentation]
